@@ -1,0 +1,12 @@
+
+h2. USAGE 
+
+<!--[if lt IE 7]>
+<script src="no_more_ie.js"></script>
+<![endif]-->
+
+or
+
+<!--[if lt IE 7]>
+<script src="https://github.com/takuyan/no_more_ie_js/raw/master/no_more_ie.js"></script>
+<![endif]-->
